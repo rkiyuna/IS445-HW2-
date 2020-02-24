@@ -17,4 +17,9 @@ a {
 
  .triptext {
     background-color: #fa923f;
+    padding: 3px;
+ }
+
+ .triptext p {
+     background-color: white;
  }
