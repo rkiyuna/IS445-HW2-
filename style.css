@@ -36,5 +36,11 @@ a {
  }
 
  .trip-text p {
-     background-color: white;
+    background-color: white;
+ }
+
+ .feedback {
+     background-color: #521751;
+     color: white;
+     text-align: center;
  }
