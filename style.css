@@ -28,14 +28,20 @@ a {
 }
 
 /*nav*/
-.navigation li {
+.navigation {
+    text-align: center;
+}
+
+
+
+.navigation li, .navigation a {
     display: inline-block;
     width: 70px;
     background-color: yellow;
 }
    
 
-
+/*main*/
  .trip-text {
     background-color: #fa923f;
     padding: 10px;
