@@ -15,11 +15,11 @@ a {
     color: black;
 }
 
- .triptext {
+ .trip-text {
     background-color: #fa923f;
     padding: 10px;
  }
 
- .triptext p {
+ .trip-text p {
      background-color: white;
  }
