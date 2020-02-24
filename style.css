@@ -60,3 +60,9 @@ a {
      color: white;
      text-align: center;
  }
+
+ .review-clients p, .review-clients img {
+     display: inline;
+     vertical-align: middle;
+
+ }
