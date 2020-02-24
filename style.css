@@ -28,6 +28,12 @@ a {
 }
 
 /*nav*/
+.navigation li {
+    display: inline-block;
+    width: 70px;
+    background-color: yellow;
+}
+   
 
 
  .trip-text {
@@ -37,6 +43,7 @@ a {
 
  .trip-text p {
     background-color: white;
+    margin: 0;
  }
 
  .feedback {
