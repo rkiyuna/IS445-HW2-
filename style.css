@@ -1,5 +1,6 @@
 html  {
     background-color: rgb(236, 236, 236);
+    font-size: 100%;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
 a {
     text-decoration: none;
     color: black;
+    background-color: red;
 }
 
 .fixed-bar {
@@ -25,6 +27,7 @@ a {
     padding: 10px 0;
     margin: 0;
     text-align: center;
+    font-size: 2rem;
 }
 
 /*nav*/
@@ -39,6 +42,7 @@ a {
     display: inline-block;
     width: 70px;
     background-color: rgb(177, 177, 174);
+    font-size: 1rem;
 }
    
 
@@ -55,6 +59,7 @@ a {
     text-align: center;
     margin: 0;
     width: 50%;
+    font-size: 1rem;
  }
 
  .trip-images {
@@ -75,6 +80,7 @@ a {
      color: white;
      text-align: center;
      margin: 0;
+     font-size: 1rem;
  }
 
  .review-clients {
@@ -94,6 +100,7 @@ a {
  .review-clients p {
      width: 350px;
      text-align: center;
+     font-size: 1rem;
  }
 
 
