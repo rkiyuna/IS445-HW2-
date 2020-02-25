@@ -49,6 +49,25 @@ a {
    
 
 /*main*/
+.trip-text {
+    display: none;
+}
+/*.trip-text {
+    background-color: #fa923f;
+    padding: 0;
+    display: flex;
+ }
+
+ .trip-text p {
+    background-color: #521751;
+    color: white;
+    text-align: center;
+    margin: 0;
+    width: 50%;
+    font-size: 16px;
+    font-size: 1rem;
+ }*/
+
  .trip-images {
      display: flex;
      flex-wrap: wrap;
