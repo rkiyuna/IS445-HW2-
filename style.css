@@ -61,7 +61,7 @@ a {
     text-align: center;
     margin: 0;
     width: 50%;
-    font-size: 32px;
+    font-size: 16px;
     font-size: 1rem;
  }
 
@@ -83,7 +83,7 @@ a {
      color: white;
      text-align: center;
      margin: 0;
-     font-size: 32px;
+     font-size: 16px;
      font-size: 1rem;
  }
 
@@ -104,7 +104,7 @@ a {
  .review-clients p {
      width: 350px;
      text-align: center;
-     font-size: 32px;
+     font-size: 16px;
      font-size: 1rem;
  }
 
