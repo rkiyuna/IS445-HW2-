@@ -78,13 +78,20 @@ a {
  .review-clients {
      display: flex;
      align-items: center;
+     justify-content: center;
+     flex-wrap: wrap;
      border: 1px solid black;
      background-color: white;
-     margin: 10px
+     margin: 10px;
  }
 
  .review-clients img {
-     width: 15%;
+     width: 120px;
+ }
+
+ .review-clients p {
+     width: 350px;
+     text-align: center;
  }
 
 
